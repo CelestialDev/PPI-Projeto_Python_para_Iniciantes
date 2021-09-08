@@ -1,0 +1,35 @@
+Projeto Python para Iniciantes Pt.1
+
+Simulador de Dado
+Objetivo: Deverá ser criado dois programas, interface gráfica e terminal, onde o usuário deverá definir a variável de limite mínimo e máximo, o mesmo deve ter a 
+opção de parar quando quiser;
+
+Embaixo está mostrado como deve ser a saída do programa no terminal, lembrando que não necessita ser exatamente isso, apenas cumpra o objetivo do programa,
+faça do jeito que mais gostar então abuse de sua criatividade:
+OUTPUT:
+Número mínimo: 2
+Número máximo: 10
+Seu número: 3 
+Quer continuar? [ S | N ]
+S
+Número mínimo: 5
+Número máximo: 100
+Seu número: 73
+Quer continuar? [ S | N ]
+N
+
+Conhecimento básico:
+* Biblioteca e módulos
+* Classes e Funções
+* Condicionais if/else
+* Laços while
+* Print/Input
+* Conversão de valores
+* Instrução break
+
+Módulos recomendados:
+* PySimpleGUI: para interface gráfica
+* random: para gerar números aleatórios
+* sys: para desligar a aplicação
+* os: para limpar o terminal
+
